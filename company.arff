@@ -1,0 +1,13 @@
+@relation company
+@attribute t1{sony,bpl,lg}
+@attribute t2{bpl,samsung}
+@attribute t3{bpl,onida}
+@attribute t4{sony,bpl,samsung}
+@attribute t5{sony,onida}
+@attribute t6{bpl,onida}
+@attribute t7{sony,onida}
+@attribute t8{sony,bpl,onida,lg}
+@attribute t9{sony,bpl,onida}
+@data
+sony,bpl,onida,samsung,sony,bpl,sony,sony,onida
+lg,bpl,onida,bpl,sony,onida,sony,bpl,onida

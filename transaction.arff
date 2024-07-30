@@ -1,0 +1,12 @@
+@relation transaction
+@attribute 1{bread, peanuts, milk, fruit, jam}
+@attribute 2{bread,jam, soda,chips, milk, fruit}
+@attribute 3{steak, jam, soda, peanuts, milk,fruit}
+@attribute 4{jam, soda, peanuts, milk, fruit}
+@attribute 5{jam,soda,chips,milk,bread}
+@attribute 6{fruit,soda,chips,milk}
+@attribute 7{fruit,soda,peanuts,milk}
+@attribute 8{fruit,peanuts,cheese,yogurt}
+@data
+bread, chips, jam, soda,milk,soda,fruit,cheese
+milk,fruit,jam,soda,milk,soda,peanuts,fruit

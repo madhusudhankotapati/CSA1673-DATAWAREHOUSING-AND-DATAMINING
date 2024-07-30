@@ -1,0 +1,11 @@
+diabetest1<-read.csv("C:/Users/sampa/OneDrive/Documents/12.csv")
+A<-c(diabetest1$Age)
+Mean<-mean(A)
+print(Mean)
+Minimum=min(diabetest1 $Age)
+print(Minimum)
+Maximum<-max(diabetest1$Age)
+print(Maximum)
+MinMax<-(A-Minimum)/(Maximum-Minimum)
+print(MinMax)
+

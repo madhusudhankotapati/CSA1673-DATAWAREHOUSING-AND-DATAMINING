@@ -1,0 +1,12 @@
+@relation set2
+@attribute T1{M,O,N,K,E,Y}
+@attribute T2{D,O,N,K,E,Y}
+@attribute T3{M,A,K,E}
+@attribute T4{M,U,C,K,Y}
+@attribute T5{C,O,K,I,E}
+@data
+M,O,K,C,I
+N,K,E,Y,E
+K,N,A,K,K
+N,D,K,U,O
+M,E,M,M,C
